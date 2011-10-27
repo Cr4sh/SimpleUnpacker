@@ -1,5 +1,5 @@
     
-  SIMPE UNPACKER
+  SIMPLE UNPACKER
   PoC Tool by Oleksiuk Dmytro (aka Cr4sh), Esage Lab
 
   http://d-olex.blogspot.com/
@@ -11,7 +11,7 @@ This tool designed for semi-automation unpacking of malware samples, by the foll
 
 1) Creates malware process with CreateProcess() and PROCESS_DEBUG flag.
 
-2) Dispatching debug events, and setting breakpoint on some API, that calls somewhere in unpacked malware body.
+2) Dispatching debug events, and setting breakpoints on some APIs, that calls somewhere in unpacked malware body.
 
 3) When breakpoint occurs -- tool performs dumping of unpacked malware executable image.
 

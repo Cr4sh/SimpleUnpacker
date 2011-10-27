@@ -1,6 +1,6 @@
 /*****************************************************************
 
-    SIMPE UNPACKER
+    SIMPLE UNPACKER
     PoC Tool by Oleksiuk Dmytro (aka Cr4sh), Esage Lab
 
     http://d-olex.blogspot.com/
